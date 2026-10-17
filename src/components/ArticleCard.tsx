@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { SmartImage as Image } from "@/components/SmartImage";
 import Link from "next/link";
 import type { ArticleMeta } from "@/lib/articles";
 import { articleImage } from "@/lib/articles";

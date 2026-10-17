@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Image from "next/image";
+import { SmartImage as Image } from "@/components/SmartImage";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleCard } from "@/components/ArticleCard";

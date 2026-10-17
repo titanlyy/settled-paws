@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { SmartImage as Image } from "@/components/SmartImage";
 import { AdSlot } from "./AdSlot";
 
 type Figure = { src: string; alt: string };

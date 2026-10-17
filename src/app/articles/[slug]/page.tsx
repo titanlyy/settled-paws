@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Image from "next/image";
+import { SmartImage as Image } from "@/components/SmartImage";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
@@ -193,7 +193,7 @@ export default async function ArticlePage({ params }: Props) {
               </Link>{" "}
               for {siteConfig.name}. See our{" "}
               <Link href="/editorial" className="underline hover:text-forest">
-                editorial & affiliate policy
+                editorial &amp; affiliate policy
               </Link>
               . {siteConfig.disclaimer}
             </p>
