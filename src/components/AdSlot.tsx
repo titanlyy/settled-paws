@@ -74,7 +74,7 @@ export function AdSlot({
         <span className="max-w-xs text-[11px] leading-snug text-ink-muted/80">
           Slot: <code className="rounded bg-white/80 px-1 py-0.5 text-[10px]">{slot}</code>
           <br />
-          Paste AdSense <code className="text-[10px]"><ins></code> here after approval
+          Paste AdSense <code className="text-[10px]">{'<ins>'}</code> here after approval
         </span>
       </div>
     </aside>
