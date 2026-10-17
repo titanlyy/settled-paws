@@ -3,7 +3,7 @@ export const siteConfig = {
   tagline: "Calm, practical dog training for real homes",
   description:
     "Problem-focused dog training guides for home owners and apartment dwellers. Positive reinforcement plans for puppies, barking, alone time, leash manners, and more—without the fluff.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://settledpaws.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://settled-paws.vercel.app",
   locale: "en_US",
   author: {
     name: "Alex Rivera",

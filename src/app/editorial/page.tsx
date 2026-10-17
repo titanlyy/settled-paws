@@ -13,7 +13,7 @@ export default function EditorialPage() {
   return (
     <main id="main-content" className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
       <h1 className="font-display text-3xl font-semibold text-ink sm:text-4xl">
-        Editorial &amp; affiliate policy
+        Editorial & affiliate policy
       </h1>
       <div className="article-prose mt-8">
         <h2>Editorial standards</h2>

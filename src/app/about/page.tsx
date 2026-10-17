@@ -24,7 +24,7 @@ export default function AboutPage() {
           barking, alone time, leash manners, and gear choices that do not rely
           on fear or pain.
         </p>
-        <h2>Who it&apos;s for</h2>
+        <h2>Who it's for</h2>
         <p>
           First-time puppy guardians, apartment dwellers, and home owners who
           want practical week-by-week help without kennel-club jargon or
@@ -37,14 +37,14 @@ export default function AboutPage() {
           and alignment with widely taught reward-based training practices. We
           synthesize established positive-reinforcement approaches into
           home-friendly schedules. We do <strong>not</strong> invent fake case
-          studies with real people&apos;s names, fake certifications, or
+          studies with real people's names, fake certifications, or
           veterinary diagnoses.
         </p>
         <p>
           Meet our editorial persona on the{" "}
           <Link href="/author">Author</Link> page. Read how we handle affiliates
           and corrections in our{" "}
-          <Link href="/editorial">Editorial &amp; affiliate policy</Link>.
+          <Link href="/editorial">Editorial & affiliate policy</Link>.
         </p>
         <h2>What we are not</h2>
         <p>

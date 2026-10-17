@@ -18,6 +18,10 @@ export type ArticleFrontmatter = {
   updatedAt?: string;
   featured?: boolean;
   related?: string[];
+  /** Featured / OG image path under /public */
+  image?: string;
+  /** In-article figure paths under /public */
+  figures?: string[];
 };
 
 export type ArticleMeta = ArticleFrontmatter & {
@@ -123,4 +127,9 @@ export function getRelatedArticles(
   }
 
   return related.slice(0, limit);
+}
+
+/** Fallback featured image when frontmatter omits image */
+export function articleImage(article: Pick<ArticleMeta, "slug" | "image">): string {
+  return article.image || `/images/articles/${article.slug}-featured.svg`;
 }

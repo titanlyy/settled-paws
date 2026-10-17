@@ -10,6 +10,7 @@ export function Footer() {
           slot="footer"
           className="mb-8"
           label="Advertisement"
+          size="banner"
         />
 
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">

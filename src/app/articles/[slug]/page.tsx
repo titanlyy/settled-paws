@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
@@ -7,6 +8,7 @@ import { ArticleCard } from "@/components/ArticleCard";
 import { DisclaimerBanner } from "@/components/DisclaimerBanner";
 import { JsonLd } from "@/components/JsonLd";
 import {
+  articleImage,
   getArticleBySlug,
   getArticleSlugs,
   getRelatedArticles,
@@ -24,6 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const article = await getArticleBySlug(slug);
   if (!article) return { title: "Not found" };
   const url = `${siteConfig.url}/articles/${article.slug}`;
+  const image = articleImage(article);
   return {
     title: article.title,
     description: article.description,
@@ -38,6 +41,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       publishedTime: article.publishedAt,
       modifiedTime: article.updatedAt || article.publishedAt,
       authors: [siteConfig.author.name],
+      images: [{ url: image, width: 800, height: 450, alt: article.title }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.description,
+      images: [image],
     },
   };
 }
@@ -56,6 +66,8 @@ export default async function ArticlePage({ params }: Props) {
     article.category
   );
   const url = `${siteConfig.url}/articles/${article.slug}`;
+  const image = articleImage(article);
+  const figures = article.figures || [];
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -64,6 +76,7 @@ export default async function ArticlePage({ params }: Props) {
     description: article.description,
     datePublished: article.publishedAt,
     dateModified: article.updatedAt || article.publishedAt,
+    image: `${siteConfig.url}${image}`,
     author: {
       "@type": "Person",
       name: siteConfig.author.name,
@@ -147,15 +160,30 @@ export default async function ArticlePage({ params }: Props) {
             </div>
           </header>
 
+          <div className="relative mt-8 aspect-[16/9] overflow-hidden rounded-2xl border border-sage-200 bg-sage-50 shadow-sm">
+            <Image
+              src={image}
+              alt={`Featured illustration for ${article.title}`}
+              fill
+              className="object-cover"
+              sizes="(max-width:1024px) 100vw, 800px"
+              priority
+            />
+          </div>
+
           <div className="mt-6">
             <DisclaimerBanner compact />
           </div>
 
           <div className="mt-8">
-            <ArticleBody html={article.contentHtml} />
+            <ArticleBody
+              html={article.contentHtml}
+              figures={figures}
+              title={article.title}
+            />
           </div>
 
-          <AdSlot slot="in-article-end" className="my-10" />
+          <AdSlot slot="in-article-end" className="my-10" size="banner" />
 
           <footer className="mt-8 rounded-2xl border border-sage-200 bg-sage-50 p-5">
             <p className="text-sm leading-relaxed text-ink-muted">
@@ -165,7 +193,7 @@ export default async function ArticlePage({ params }: Props) {
               </Link>{" "}
               for {siteConfig.name}. See our{" "}
               <Link href="/editorial" className="underline hover:text-forest">
-                editorial &amp; affiliate policy
+                editorial & affiliate policy
               </Link>
               . {siteConfig.disclaimer}
             </p>
@@ -189,7 +217,7 @@ export default async function ArticlePage({ params }: Props) {
         </article>
 
         <aside className="space-y-6 lg:pt-16" aria-label="Sidebar">
-          <AdSlot slot="sidebar" desktopOnly />
+          <AdSlot slot="sidebar" desktopOnly size="sidebar" />
           <div className="rounded-2xl border border-sage-200 bg-white p-5 shadow-sm lg:sticky lg:top-24">
             <p className="font-display text-base font-semibold text-ink">
               On this site

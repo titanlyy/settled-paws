@@ -39,7 +39,7 @@ export default function TermsPage() {
           Do not misuse the site, attempt unauthorized access, or use content to
           build competing scraped doorway pages.
         </p>
-        <h2>Affiliate &amp; ads</h2>
+        <h2>Affiliate & ads</h2>
         <p>
           We may display advertisements and affiliate links as described in our{" "}
           <Link href="/editorial">Editorial policy</Link> and{" "}

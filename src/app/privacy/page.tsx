@@ -26,7 +26,7 @@ export default function PrivacyPage() {
         <h2>Information we collect</h2>
         <ul>
           <li>
-            <strong>Log &amp; device data:</strong> When you visit, hosting
+            <strong>Log & device data:</strong> When you visit, hosting
             providers may automatically collect IP address, browser type,
             general location, and pages viewed.
           </li>
@@ -35,15 +35,15 @@ export default function PrivacyPage() {
             form, we receive the information you submit.
           </li>
           <li>
-            <strong>Cookies &amp; similar tech:</strong> Used for site function,
+            <strong>Cookies & similar tech:</strong> Used for site function,
             analytics (when enabled), and advertising (when enabled).
           </li>
         </ul>
-        <h2>Google AdSense &amp; advertising cookies</h2>
+        <h2>Google AdSense & advertising cookies</h2>
         <p>
           When we participate in Google AdSense or similar networks, third
           parties may use cookies to serve ads based on prior visits to this
-          and other websites. Google&apos;s use of advertising cookies enables
+          and other websites. Google's use of advertising cookies enables
           it and its partners to serve ads based on your visit to this site
           and/or other sites on the Internet.
         </p>

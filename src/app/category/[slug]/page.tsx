@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleCard } from "@/components/ArticleCard";
@@ -19,6 +20,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: category.name,
     description: category.description,
     alternates: { canonical: `${siteConfig.url}/category/${category.slug}` },
+    openGraph: {
+      images: [`/images/categories/${category.slug}.svg`],
+    },
   };
 }
 
@@ -38,11 +42,22 @@ export default async function CategoryPage({ params }: Props) {
         <span aria-hidden> / </span>
         <span>{category.name}</span>
       </nav>
-      <header className="mt-4 max-w-2xl">
-        <h1 className="font-display text-3xl font-semibold text-ink sm:text-4xl">
-          {category.name}
-        </h1>
-        <p className="mt-3 text-ink-muted">{category.description}</p>
+      <header className="mt-4 grid gap-6 lg:grid-cols-[1fr_280px] lg:items-center">
+        <div className="max-w-2xl">
+          <h1 className="font-display text-3xl font-semibold text-ink sm:text-4xl">
+            {category.name}
+          </h1>
+          <p className="mt-3 text-ink-muted">{category.description}</p>
+        </div>
+        <div className="relative hidden aspect-[16/9] overflow-hidden rounded-2xl border border-sage-200 bg-sage-50 lg:block">
+          <Image
+            src={`/images/categories/${category.slug}.svg`}
+            alt=""
+            fill
+            className="object-cover"
+            sizes="280px"
+          />
+        </div>
       </header>
       {articles.length === 0 ? (
         <p className="mt-10 text-ink-muted">Guides coming soon.</p>

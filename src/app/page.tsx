@@ -1,4 +1,6 @@
+import Image from "next/image";
 import Link from "next/link";
+import { AdSlot } from "@/components/AdSlot";
 import { ArticleCard } from "@/components/ArticleCard";
 import { DisclaimerBanner } from "@/components/DisclaimerBanner";
 import { Newsletter } from "@/components/Newsletter";
@@ -13,7 +15,7 @@ export default function HomePage() {
   return (
     <main id="main-content">
       <section className="relative overflow-hidden border-b border-sage-200 bg-gradient-to-br from-cream via-sage-50 to-sky-50">
-        <div className="mx-auto grid max-w-6xl gap-10 px-4 py-14 sm:px-6 lg:grid-cols-[1.2fr_0.8fr] lg:items-center lg:py-20">
+        <div className="mx-auto grid max-w-6xl gap-10 px-4 py-14 sm:px-6 lg:grid-cols-[1.15fr_0.85fr] lg:items-center lg:py-20">
           <div>
             <p className="text-sm font-semibold uppercase tracking-wider text-forest">
               Positive reinforcement · Apartment-aware
@@ -39,45 +41,24 @@ export default function HomePage() {
               </Link>
             </div>
           </div>
-          <div className="rounded-3xl border border-sage-200 bg-white/80 p-6 shadow-sm backdrop-blur">
-            <p className="font-display text-lg font-semibold text-ink">
-              How Settled Paws helps
-            </p>
-            <ul className="mt-4 space-y-3 text-sm leading-relaxed text-ink-muted">
-              <li className="flex gap-2">
-                <span className="text-forest" aria-hidden>
-                  ✓
-                </span>
-                Week-by-week and day-by-day plans you can follow after work.
-              </li>
-              <li className="flex gap-2">
-                <span className="text-forest" aria-hidden>
-                  ✓
-                </span>
-                Apartment logistics: elevators, shared walls, no yard.
-              </li>
-              <li className="flex gap-2">
-                <span className="text-forest" aria-hidden>
-                  ✓
-                </span>
-                Clear lines for when DIY stops and professionals step in.
-              </li>
-              <li className="flex gap-2">
-                <span className="text-forest" aria-hidden>
-                  ✓
-                </span>
-                Honest gear guidance—no fear-based tools.
-              </li>
-            </ul>
-            <p className="mt-5 text-xs text-ink-muted">
-              Written for home owners · Educational, not veterinary advice
-            </p>
+          <div className="relative aspect-[800/520] overflow-hidden rounded-3xl border border-sage-200 bg-white shadow-sm">
+            <Image
+              src="/images/site/hero.svg"
+              alt="Stylized illustration of calm dogs settling at home in an apartment"
+              fill
+              className="object-cover"
+              sizes="(max-width:1024px) 100vw, 420px"
+              priority
+            />
           </div>
         </div>
       </section>
 
       <div className="mx-auto max-w-6xl space-y-14 px-4 py-12 sm:px-6">
         <DisclaimerBanner compact />
+
+        {/* Homepage ad — below hero content, not ads-only above the fold */}
+        <AdSlot slot="homepage-below-hero" size="banner" />
 
         <TrustStrip />
 
@@ -112,6 +93,8 @@ export default function HomePage() {
           </div>
         </section>
 
+        <AdSlot slot="homepage-mid" size="banner" />
+
         <section aria-labelledby="cats-heading">
           <h2
             id="cats-heading"
@@ -124,14 +107,25 @@ export default function HomePage() {
               <li key={c.slug}>
                 <Link
                   href={`/category/${c.slug}`}
-                  className="block h-full rounded-2xl border border-sage-200 bg-white p-5 shadow-sm transition hover:border-forest/40 hover:shadow-md"
+                  className="group flex h-full flex-col overflow-hidden rounded-2xl border border-sage-200 bg-white shadow-sm transition hover:border-forest/40 hover:shadow-md"
                 >
-                  <p className="font-display text-lg font-semibold text-ink">
-                    {c.name}
-                  </p>
-                  <p className="mt-2 text-sm leading-relaxed text-ink-muted">
-                    {c.description}
-                  </p>
+                  <div className="relative aspect-[16/9] bg-sage-50">
+                    <Image
+                      src={`/images/categories/${c.slug}.svg`}
+                      alt=""
+                      fill
+                      className="object-cover transition duration-300 group-hover:scale-[1.02]"
+                      sizes="(max-width:640px) 100vw, 33vw"
+                    />
+                  </div>
+                  <div className="p-5">
+                    <p className="font-display text-lg font-semibold text-ink group-hover:text-forest">
+                      {c.name}
+                    </p>
+                    <p className="mt-2 text-sm leading-relaxed text-ink-muted">
+                      {c.description}
+                    </p>
+                  </div>
                 </Link>
               </li>
             ))}
@@ -145,15 +139,26 @@ export default function HomePage() {
           >
             Recently updated
           </h2>
-          <ul className="mt-4 divide-y divide-sage-200 rounded-2xl border border-sage-200 bg-white">
+          <ul className="mt-4 divide-y divide-sage-200 overflow-hidden rounded-2xl border border-sage-200 bg-white">
             {latest.map((a) => (
               <li key={a.slug}>
                 <Link
                   href={`/articles/${a.slug}`}
-                  className="flex flex-col gap-1 px-5 py-4 transition hover:bg-sage-50 sm:flex-row sm:items-center sm:justify-between"
+                  className="flex gap-4 px-4 py-4 transition hover:bg-sage-50 sm:items-center sm:justify-between sm:px-5"
                 >
-                  <span className="font-medium text-ink">{a.title}</span>
-                  <span className="text-xs text-ink-muted">
+                  <span className="relative hidden h-14 w-20 shrink-0 overflow-hidden rounded-lg bg-sage-100 sm:block">
+                    <Image
+                      src={a.image || `/images/articles/${a.slug}-featured.svg`}
+                      alt=""
+                      fill
+                      className="object-cover"
+                      sizes="80px"
+                    />
+                  </span>
+                  <span className="min-w-0 flex-1 font-medium text-ink">
+                    {a.title}
+                  </span>
+                  <span className="shrink-0 text-xs text-ink-muted">
                     {a.readingMinutes} min ·{" "}
                     {new Date(a.updatedAt || a.publishedAt).toLocaleDateString(
                       "en-SG",
