@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280" role="img">
+  <rect width="720" height="280" fill="#f7f5f0" rx="24"/>
+  <text x="40" y="45" font-family="Georgia,serif" font-size="20" fill="#2f5d50">Leave-it stages</text>
+        <g transform="translate(60,90)"><circle cx="50" cy="50" r="42" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="50" y="55" text-anchor="middle" font-size="12" fill="#1c2a24">Covered treat</text></g><g transform="translate(220,90)"><circle cx="50" cy="50" r="42" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="50" y="55" text-anchor="middle" font-size="12" fill="#1c2a24">Open hand</text></g><g transform="translate(380,90)"><circle cx="50" cy="50" r="42" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="50" y="55" text-anchor="middle" font-size="12" fill="#1c2a24">Floor</text></g><g transform="translate(540,90)"><circle cx="50" cy="50" r="42" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="50" y="55" text-anchor="middle" font-size="12" fill="#1c2a24">Walk past</text></g>
+</svg>

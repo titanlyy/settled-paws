@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" width="720" height="240" role="img">
+  <rect width="720" height="240" fill="#f7f5f0" rx="24"/>
+  
+  <g transform="translate(100,60) scale(1.4)">
+    <rect x="0" y="10" width="70" height="50" rx="4" fill="#e5ede8" stroke="#2f5d50" stroke-width="2.5"/>
+    <line x1="14" y1="10" x2="14" y2="60" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="28" y1="10" x2="28" y2="60" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="42" y1="10" x2="42" y2="60" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="56" y1="10" x2="56" y2="60" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="0" y1="28" x2="70" y2="28" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="0" y1="44" x2="70" y2="44" stroke="#a9bfb3" stroke-width="2"/>
+    <rect x="0" y="58" width="70" height="6" rx="2" fill="#2f5d50"/>
+  </g>
+        <text x="320" y="90" font-family="Georgia,serif" font-size="20" fill="#2f5d50">Crate sizing</text>
+        <text x="320" y="130" font-size="15" fill="#1c2a24">Stand · turn · stretch — not a bathroom wing</text>
+        <text x="320" y="160" font-size="15" fill="#1c2a24">Use a divider while growing</text>
+</svg>

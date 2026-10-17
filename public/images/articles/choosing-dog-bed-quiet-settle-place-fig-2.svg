@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" width="720" height="240" role="img">
+  <rect width="720" height="240" fill="#f7f5f0" rx="24"/>
+  <text x="40" y="50" font-family="Georgia,serif" font-size="20" fill="#2f5d50">Bed types</text>
+        <rect x="50" y="90" width="180" height="90" rx="10" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="140" y="140" text-anchor="middle" font-size="14" fill="#1c2a24">Orthopedic</text><rect x="270" y="90" width="180" height="90" rx="10" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="360" y="140" text-anchor="middle" font-size="14" fill="#1c2a24">Bolster</text><rect x="490" y="90" width="180" height="90" rx="10" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="580" y="140" text-anchor="middle" font-size="14" fill="#1c2a24">Cooling mat</text>
+</svg>

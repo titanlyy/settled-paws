@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img">
+  <rect width="800" height="450" fill="#f7f5f0" rx="24"/>
+  
+  <g transform="translate(60,60)">
+    <rect x="0" y="20" width="50" height="70" rx="3" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/>
+    <rect x="8" y="30" width="12" height="12" rx="1" fill="#d4e8ee"/>
+    <rect x="28" y="30" width="12" height="12" rx="1" fill="#d4e8ee"/>
+    <rect x="8" y="50" width="12" height="12" rx="1" fill="#d4e8ee"/>
+    <rect x="28" y="50" width="12" height="12" rx="1" fill="#d4e8ee"/>
+    <rect x="18" y="70" width="14" height="20" fill="#2f5d50"/>
+  </g>
+  <g transform="translate(200,220) scale(1.4)">
+    <!-- body -->
+    <ellipse cx="40" cy="52" rx="28" ry="18" fill="#2f5d50"/>
+    <!-- head -->
+    <circle cx="68" cy="38" r="16" fill="#2f5d50"/>
+    <!-- ears -->
+    <ellipse cx="58" cy="26" rx="6" ry="10" fill="#244a40" transform="rotate(-20 58 26)"/>
+    <ellipse cx="76" cy="26" rx="6" ry="10" fill="#244a40" transform="rotate(20 76 26)"/>
+    <!-- snout -->
+    <ellipse cx="78" cy="42" rx="8" ry="6" fill="#efeae2"/>
+    <circle cx="82" cy="40" r="2" fill="#1c2a24"/>
+    <!-- eye -->
+    <circle cx="72" cy="34" r="2.2" fill="#1c2a24"/>
+    <!-- legs -->
+    <rect x="22" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="36" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="48" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="58" y="60" width="7" height="18" rx="3" fill="#244a40"/>
+    <!-- tail -->
+    <path d="M14 48 Q4 36 12 30" fill="none" stroke="#244a40" stroke-width="5" stroke-linecap="round"/>
+  </g>
+      <ellipse cx="520" cy="280" rx="80" ry="40" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/>
+      <text x="490" y="286" font-size="14" fill="#2f5d50">Potty spot</text>
+      <text x="420" y="140" font-family="Georgia,serif" font-size="28" fill="#2f5d50">No-yard plan</text>
+</svg>
