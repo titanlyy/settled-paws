@@ -1,0 +1,156 @@
+{
+  "crate-training-day-night-schedule": {
+    "image": "/images/articles/crate-training-day-night-schedule-featured.svg",
+    "figures": [
+      "/images/articles/crate-training-day-night-schedule-fig-1.svg",
+      "/images/articles/crate-training-day-night-schedule-fig-2.svg"
+    ]
+  },
+  "alone-time-protocol-separation-anxiety": {
+    "image": "/images/articles/alone-time-protocol-separation-anxiety-featured.svg",
+    "figures": [
+      "/images/articles/alone-time-protocol-separation-anxiety-fig-1.svg",
+      "/images/articles/alone-time-protocol-separation-anxiety-fig-2.svg"
+    ]
+  },
+  "apartment-barking-triggers-quieting-plan": {
+    "image": "/images/articles/apartment-barking-triggers-quieting-plan-featured.svg",
+    "figures": [
+      "/images/articles/apartment-barking-triggers-quieting-plan-fig-1.svg",
+      "/images/articles/apartment-barking-triggers-quieting-plan-fig-2.svg"
+    ]
+  },
+  "apartment-potty-training-without-yard": {
+    "image": "/images/articles/apartment-potty-training-without-yard-featured.svg",
+    "figures": [
+      "/images/articles/apartment-potty-training-without-yard-fig-1.svg",
+      "/images/articles/apartment-potty-training-without-yard-fig-2.svg"
+    ]
+  },
+  "beginner-harnesses-crates-buying-guide": {
+    "image": "/images/articles/beginner-harnesses-crates-buying-guide-featured.svg",
+    "figures": [
+      "/images/articles/beginner-harnesses-crates-buying-guide-fig-1.svg",
+      "/images/articles/beginner-harnesses-crates-buying-guide-fig-2.svg"
+    ]
+  },
+  "car-travel-vet-visit-calm-anxious-dogs": {
+    "image": "/images/articles/car-travel-vet-visit-calm-anxious-dogs-featured.svg",
+    "figures": [
+      "/images/articles/car-travel-vet-visit-calm-anxious-dogs-fig-1.svg",
+      "/images/articles/car-travel-vet-visit-calm-anxious-dogs-fig-2.svg"
+    ]
+  },
+  "choosing-dog-bed-quiet-settle-place": {
+    "image": "/images/articles/choosing-dog-bed-quiet-settle-place-featured.svg",
+    "figures": [
+      "/images/articles/choosing-dog-bed-quiet-settle-place-fig-1.svg",
+      "/images/articles/choosing-dog-bed-quiet-settle-place-fig-2.svg"
+    ]
+  },
+  "counter-surfing-kitchen-manners": {
+    "image": "/images/articles/counter-surfing-kitchen-manners-featured.svg",
+    "figures": [
+      "/images/articles/counter-surfing-kitchen-manners-fig-1.svg",
+      "/images/articles/counter-surfing-kitchen-manners-fig-2.svg"
+    ]
+  },
+  "doorway-manners-guests-no-bolting": {
+    "image": "/images/articles/doorway-manners-guests-no-bolting-featured.svg",
+    "figures": [
+      "/images/articles/doorway-manners-guests-no-bolting-fig-1.svg",
+      "/images/articles/doorway-manners-guests-no-bolting-fig-2.svg"
+    ]
+  },
+  "elevator-hallway-etiquette-apartment-dogs": {
+    "image": "/images/articles/elevator-hallway-etiquette-apartment-dogs-featured.svg",
+    "figures": [
+      "/images/articles/elevator-hallway-etiquette-apartment-dogs-fig-1.svg",
+      "/images/articles/elevator-hallway-etiquette-apartment-dogs-fig-2.svg"
+    ]
+  },
+  "enrichment-toys-boredom-busters-apartment-dogs": {
+    "image": "/images/articles/enrichment-toys-boredom-busters-apartment-dogs-featured.svg",
+    "figures": [
+      "/images/articles/enrichment-toys-boredom-busters-apartment-dogs-fig-1.svg",
+      "/images/articles/enrichment-toys-boredom-busters-apartment-dogs-fig-2.svg"
+    ]
+  },
+  "leave-it-drop-it-reliable-training": {
+    "image": "/images/articles/leave-it-drop-it-reliable-training-featured.svg",
+    "figures": [
+      "/images/articles/leave-it-drop-it-reliable-training-fig-1.svg",
+      "/images/articles/leave-it-drop-it-reliable-training-fig-2.svg"
+    ]
+  },
+  "loose-leash-training-reactive-dogs-apartments": {
+    "image": "/images/articles/loose-leash-training-reactive-dogs-apartments-featured.svg",
+    "figures": [
+      "/images/articles/loose-leash-training-reactive-dogs-apartments-fig-1.svg",
+      "/images/articles/loose-leash-training-reactive-dogs-apartments-fig-2.svg"
+    ]
+  },
+  "mat-settle-training-hyper-puppy": {
+    "image": "/images/articles/mat-settle-training-hyper-puppy-featured.svg",
+    "figures": [
+      "/images/articles/mat-settle-training-hyper-puppy-fig-1.svg",
+      "/images/articles/mat-settle-training-hyper-puppy-fig-2.svg"
+    ]
+  },
+  "multi-dog-household-introductions-home": {
+    "image": "/images/articles/multi-dog-household-introductions-home-featured.svg",
+    "figures": [
+      "/images/articles/multi-dog-household-introductions-home-fig-1.svg",
+      "/images/articles/multi-dog-household-introductions-home-fig-2.svg"
+    ]
+  },
+  "newly-adopted-rescue-first-two-weeks": {
+    "image": "/images/articles/newly-adopted-rescue-first-two-weeks-featured.svg",
+    "figures": [
+      "/images/articles/newly-adopted-rescue-first-two-weeks-fig-1.svg",
+      "/images/articles/newly-adopted-rescue-first-two-weeks-fig-2.svg"
+    ]
+  },
+  "puppy-biting-redirection": {
+    "image": "/images/articles/puppy-biting-redirection-featured.svg",
+    "figures": [
+      "/images/articles/puppy-biting-redirection-fig-1.svg",
+      "/images/articles/puppy-biting-redirection-fig-2.svg"
+    ]
+  },
+  "puppy-first-30-days-at-home": {
+    "image": "/images/articles/puppy-first-30-days-at-home-featured.svg",
+    "figures": [
+      "/images/articles/puppy-first-30-days-at-home-fig-1.svg",
+      "/images/articles/puppy-first-30-days-at-home-fig-2.svg"
+    ]
+  },
+  "puppy-night-waking-sleep-training": {
+    "image": "/images/articles/puppy-night-waking-sleep-training-featured.svg",
+    "figures": [
+      "/images/articles/puppy-night-waking-sleep-training-fig-1.svg",
+      "/images/articles/puppy-night-waking-sleep-training-fig-2.svg"
+    ]
+  },
+  "rainy-day-indoor-exercise-plans": {
+    "image": "/images/articles/rainy-day-indoor-exercise-plans-featured.svg",
+    "figures": [
+      "/images/articles/rainy-day-indoor-exercise-plans-fig-1.svg",
+      "/images/articles/rainy-day-indoor-exercise-plans-fig-2.svg"
+    ]
+  },
+  "walking-past-dogs-without-reactivity": {
+    "image": "/images/articles/walking-past-dogs-without-reactivity-featured.svg",
+    "figures": [
+      "/images/articles/walking-past-dogs-without-reactivity-fig-1.svg",
+      "/images/articles/walking-past-dogs-without-reactivity-fig-2.svg"
+    ]
+  },
+  "when-to-hire-professional-trainer": {
+    "image": "/images/articles/when-to-hire-professional-trainer-featured.svg",
+    "figures": [
+      "/images/articles/when-to-hire-professional-trainer-fig-1.svg",
+      "/images/articles/when-to-hire-professional-trainer-fig-2.svg"
+    ]
+  }
+}
