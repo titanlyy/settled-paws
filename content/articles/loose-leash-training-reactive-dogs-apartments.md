@@ -7,6 +7,10 @@ publishedAt: "2026-04-08"
 updatedAt: "2026-09-25"
 featured: true
 related: ["walking-past-dogs-without-reactivity", "elevator-hallway-etiquette-apartment-dogs", "beginner-harnesses-crates-buying-guide"]
+image: "/images/articles/loose-leash-training-reactive-dogs-apartments-featured.svg"
+figures:
+  - /images/articles/loose-leash-training-reactive-dogs-apartments-fig-1.svg
+  - /images/articles/loose-leash-training-reactive-dogs-apartments-fig-2.svg
 ---
 
 City sidewalks are an advanced classroom. For a dog who lunges, barks, or shuts down when other dogs or bikes appear, “heel” lectures miss the point. Reactivity is often a distance-and-emotion problem. This guide blends **loose-leash skills** with **reactivity management** tailored to apartments: elevators, lobbies, narrow sidewalks, and no yard to warm up in.

@@ -7,6 +7,10 @@ publishedAt: "2026-05-05"
 updatedAt: "2026-10-10"
 featured: true
 related: ["rainy-day-indoor-exercise-plans", "apartment-barking-triggers-quieting-plan", "mat-settle-training-hyper-puppy"]
+image: "/images/articles/enrichment-toys-boredom-busters-apartment-dogs-featured.svg"
+figures:
+  - /images/articles/enrichment-toys-boredom-busters-apartment-dogs-fig-1.svg
+  - /images/articles/enrichment-toys-boredom-busters-apartment-dogs-fig-2.svg
 ---
 
 Apartment dogs do not need endless square footage. They need **jobs for their noses, jaws, and problem-solving brains**. When enrichment is missing, “boredom” shows up as chewing baseboards, barking at hallway footsteps, shadowing you into the bathroom, and midnight zoomies. This guide is a home-owner enrichment system—not a toy dump—built around positive reinforcement, neighbor-friendly intensity, and gear that actually gets used.

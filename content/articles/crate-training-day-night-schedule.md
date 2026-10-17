@@ -7,6 +7,10 @@ publishedAt: "2026-03-08"
 updatedAt: "2026-09-15"
 featured: true
 related: ["puppy-first-30-days-at-home", "alone-time-protocol-separation-anxiety", "beginner-harnesses-crates-buying-guide"]
+image: "/images/articles/crate-training-day-night-schedule-featured.svg"
+figures:
+  - /images/articles/crate-training-day-night-schedule-fig-1.svg
+  - /images/articles/crate-training-day-night-schedule-fig-2.svg
 ---
 
 Crate training fails most often because the schedule asks the puppy for more bladder control—or more emotional stamina—than they have. A crate should become a predictable rest den, not a parking spot for an overstimulated dog. This plan uses positive associations, honest time limits, and separate day versus night strategies so the habit sticks.

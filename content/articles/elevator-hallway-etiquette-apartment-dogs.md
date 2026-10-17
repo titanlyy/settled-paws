@@ -7,6 +7,10 @@ publishedAt: "2026-06-02"
 updatedAt: "2026-10-12"
 featured: false
 related: ["loose-leash-training-reactive-dogs-apartments", "walking-past-dogs-without-reactivity", "doorway-manners-guests-no-bolting"]
+image: "/images/articles/elevator-hallway-etiquette-apartment-dogs-featured.svg"
+figures:
+  - /images/articles/elevator-hallway-etiquette-apartment-dogs-fig-1.svg
+  - /images/articles/elevator-hallway-etiquette-apartment-dogs-fig-2.svg
 ---
 
 Apartment hallways and elevators are compressed social arenas: smells of every dog on the floor, sudden doors, reflective walls, and people who “love dogs” reaching for faces. Etiquette here is not fancy competition heeling—it is **spacing, consent, and exit strategies** so your dog stays under threshold and neighbors feel safe. This guide builds those skills with positive reinforcement and management that works at 8 a.m. rush hour.

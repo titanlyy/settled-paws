@@ -7,6 +7,10 @@ publishedAt: "2026-03-22"
 updatedAt: "2026-09-18"
 featured: true
 related: ["puppy-first-30-days-at-home", "mat-settle-training-hyper-puppy", "when-to-hire-professional-trainer"]
+image: "/images/articles/puppy-biting-redirection-featured.svg"
+figures:
+  - /images/articles/puppy-biting-redirection-fig-1.svg
+  - /images/articles/puppy-biting-redirection-fig-2.svg
 ---
 
 Puppy teeth feel like tiny needles, and every home owner wonders if they adopted a land shark. Mouthing is normal exploration and play communication—but skin is not a toy, and guests should not become chew toys. This redirection plan builds a **soft mouth** with clear feedback, better play design, and management. No alpha rolls, no muzzle slaps, no yelling contests.

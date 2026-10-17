@@ -7,6 +7,10 @@ publishedAt: "2026-03-15"
 updatedAt: "2026-09-20"
 featured: true
 related: ["crate-training-day-night-schedule", "newly-adopted-rescue-first-two-weeks", "car-travel-vet-visit-calm-anxious-dogs"]
+image: "/images/articles/alone-time-protocol-separation-anxiety-featured.svg"
+figures:
+  - /images/articles/alone-time-protocol-separation-anxiety-fig-1.svg
+  - /images/articles/alone-time-protocol-separation-anxiety-fig-2.svg
 ---
 
 If your dog shreds door frames, howls the moment keys jingle, or follows you into the bathroom like a shadow, you are not alone—and you should not “just let them cry it out.” True separation distress is an emotional welfare issue. This home-version protocol uses **graded absences** and **departure-cue desensitization** rooted in positive-reinforcement behavior practice. It is educational, not a diagnosis.

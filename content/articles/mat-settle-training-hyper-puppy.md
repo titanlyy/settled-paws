@@ -7,6 +7,10 @@ publishedAt: "2026-04-22"
 updatedAt: "2026-10-01"
 featured: true
 related: ["puppy-biting-redirection", "doorway-manners-guests-no-bolting", "choosing-dog-bed-quiet-settle-place"]
+image: "/images/articles/mat-settle-training-hyper-puppy-featured.svg"
+figures:
+  - /images/articles/mat-settle-training-hyper-puppy-fig-1.svg
+  - /images/articles/mat-settle-training-hyper-puppy-fig-2.svg
 ---
 
 Hyper is often a mix of age, genetics, skipped naps, and a house that accidentally pays for zoomies. Mat settle training gives your puppy a **job that pays for calm**: go to a towel or bed, park the body, breathe. It is one of the highest-ROI skills for apartment living, guest manners, and your own nervous system.

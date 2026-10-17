@@ -7,6 +7,10 @@ publishedAt: "2026-05-12"
 updatedAt: "2026-10-10"
 featured: true
 related: ["puppy-first-30-days-at-home", "alone-time-protocol-separation-anxiety", "crate-training-day-night-schedule"]
+image: "/images/articles/newly-adopted-rescue-first-two-weeks-featured.svg"
+figures:
+  - /images/articles/newly-adopted-rescue-first-two-weeks-fig-1.svg
+  - /images/articles/newly-adopted-rescue-first-two-weeks-fig-2.svg
 ---
 
 The first fourteen days with a newly adopted rescue are less about “showing them the whole world” and more about **safety, predictability, and soft associations**. Many behavior surprises in month two were rehearsed in week one—too many guests, flooded walks, or alone time that started at a full workday. This plan is for home owners and apartment dwellers who want a settled companion without rushing trust.

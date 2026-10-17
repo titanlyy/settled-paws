@@ -7,6 +7,10 @@ publishedAt: "2026-05-28"
 updatedAt: "2026-10-12"
 featured: true
 related: ["crate-training-day-night-schedule", "puppy-first-30-days-at-home", "apartment-potty-training-without-yard"]
+image: "/images/articles/puppy-night-waking-sleep-training-featured.svg"
+figures:
+  - /images/articles/puppy-night-waking-sleep-training-fig-1.svg
+  - /images/articles/puppy-night-waking-sleep-training-fig-2.svg
 ---
 
 Puppy night waking is normal biology colliding with human work schedules. Tiny bladders, teething, startle responses, and a brand-new den add up to 2 a.m. hallway concerts—especially in apartments where every whine feels amplified. This plan helps you **meet real needs**, fade unnecessary wake-ups, and protect sleep without using scare tactics or abandoning a distressed puppy in a dark room.

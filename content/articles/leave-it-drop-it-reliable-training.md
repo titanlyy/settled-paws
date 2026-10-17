@@ -7,6 +7,10 @@ publishedAt: "2026-06-08"
 updatedAt: "2026-10-12"
 featured: true
 related: ["counter-surfing-kitchen-manners", "puppy-biting-redirection", "doorway-manners-guests-no-bolting"]
+image: "/images/articles/leave-it-drop-it-reliable-training-featured.svg"
+figures:
+  - /images/articles/leave-it-drop-it-reliable-training-fig-1.svg
+  - /images/articles/leave-it-drop-it-reliable-training-fig-2.svg
 ---
 
 “Leave it” and “drop it” are the seatbelts of household dog training. One prevents the grab; the other ends the grab safely. Together they reduce emergency room visits, sock surgeries, and sidewalk chicken-bone disasters. This guide builds both cues with positive reinforcement until they work when it matters—not only in a quiet kitchen with a cracker you do not care about.

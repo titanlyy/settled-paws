@@ -7,6 +7,10 @@ publishedAt: "2026-07-02"
 updatedAt: "2026-10-14"
 featured: true
 related: ["newly-adopted-rescue-first-two-weeks", "leave-it-drop-it-reliable-training", "enrichment-toys-boredom-busters-apartment-dogs"]
+image: "/images/articles/multi-dog-household-introductions-home-featured.svg"
+figures:
+  - /images/articles/multi-dog-household-introductions-home-fig-1.svg
+  - /images/articles/multi-dog-household-introductions-home-fig-2.svg
 ---
 
 Bringing a second dog home is a relationship project, not a single sniff in the living room. Rushed face-to-face introductions create fights that take months to untangle. A careful plan—**neutral territory first, management always, resources separated**—gives both dogs the best chance to share an apartment or house without daily conflict. This guide is for home owners adding a dog to a resident dog’s world using positive reinforcement and realistic timelines.

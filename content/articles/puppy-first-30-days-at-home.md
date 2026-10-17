@@ -7,6 +7,10 @@ publishedAt: "2026-03-01"
 updatedAt: "2026-09-15"
 featured: true
 related: ["crate-training-day-night-schedule", "puppy-night-waking-sleep-training", "newly-adopted-rescue-first-two-weeks"]
+image: "/images/articles/puppy-first-30-days-at-home-featured.svg"
+figures:
+  - /images/articles/puppy-first-30-days-at-home-fig-1.svg
+  - /images/articles/puppy-first-30-days-at-home-fig-2.svg
 ---
 
 Bringing a puppy home is joyful and chaotic in the same breath. The first month sets the tone for sleep, house manners, and how your dog feels about being alone. This guide is a realistic home-owner plan—not a kennel schedule—built around positive reinforcement, short training sessions, and protecting both your sanity and your puppy’s developing brain.

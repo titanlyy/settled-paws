@@ -7,6 +7,10 @@ publishedAt: "2026-06-20"
 updatedAt: "2026-10-13"
 featured: false
 related: ["mat-settle-training-hyper-puppy", "beginner-harnesses-crates-buying-guide", "enrichment-toys-boredom-busters-apartment-dogs"]
+image: "/images/articles/choosing-dog-bed-quiet-settle-place-featured.svg"
+figures:
+  - /images/articles/choosing-dog-bed-quiet-settle-place-fig-1.svg
+  - /images/articles/choosing-dog-bed-quiet-settle-place-fig-2.svg
 ---
 
 A dog bed is not just décor. Used well, it becomes a **portable calm cue**—the physical anchor for settle training, guest manners, and work-from-home boundaries. Used poorly, it is an expensive pillow your dog ignores while stealing the couch. This guide covers how to choose a bed for real homes, where to put it in an apartment, and how to train it as a quiet place without force.

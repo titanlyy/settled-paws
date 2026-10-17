@@ -7,6 +7,10 @@ publishedAt: "2026-07-08"
 updatedAt: "2026-10-14"
 featured: true
 related: ["enrichment-toys-boredom-busters-apartment-dogs", "mat-settle-training-hyper-puppy", "apartment-barking-triggers-quieting-plan"]
+image: "/images/articles/rainy-day-indoor-exercise-plans-featured.svg"
+figures:
+  - /images/articles/rainy-day-indoor-exercise-plans-fig-1.svg
+  - /images/articles/rainy-day-indoor-exercise-plans-fig-2.svg
 ---
 
 Rain cancels the long park loop and somehow doubles your dog’s horsepower. Indoor “exercise” that is really hallway fetch often ends with broken lamps, barked-up neighbors, and a dog still vibrating. This plan gives you **apartment-safe energy outlets**: nose work, training circuits, chewing protocols, and settle finishes that protect furniture and shared walls.

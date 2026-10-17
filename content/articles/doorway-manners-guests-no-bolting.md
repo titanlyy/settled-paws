@@ -7,6 +7,10 @@ publishedAt: "2026-05-18"
 updatedAt: "2026-10-11"
 featured: false
 related: ["mat-settle-training-hyper-puppy", "apartment-barking-triggers-quieting-plan", "leave-it-drop-it-reliable-training"]
+image: "/images/articles/doorway-manners-guests-no-bolting-featured.svg"
+figures:
+  - /images/articles/doorway-manners-guests-no-bolting-fig-1.svg
+  - /images/articles/doorway-manners-guests-no-bolting-fig-2.svg
 ---
 
 The front door is a slot machine for dogs: smells, people, escape routes, and sometimes the joy of bowling over the pizza delivery. Doorway chaos is also a safety issue—bolting into hallways and streets is one of the fastest ways a “friendly” dog becomes a lost or injured dog. This guide builds **wait, settle, and polite greet** skills with positive reinforcement and management you can use in an apartment lobby or a suburban entryway.

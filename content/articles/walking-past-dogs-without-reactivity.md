@@ -7,6 +7,10 @@ publishedAt: "2026-06-14"
 updatedAt: "2026-10-13"
 featured: true
 related: ["loose-leash-training-reactive-dogs-apartments", "elevator-hallway-etiquette-apartment-dogs", "when-to-hire-professional-trainer"]
+image: "/images/articles/walking-past-dogs-without-reactivity-featured.svg"
+figures:
+  - /images/articles/walking-past-dogs-without-reactivity-fig-1.svg
+  - /images/articles/walking-past-dogs-without-reactivity-fig-2.svg
 ---
 
 Leash reactivity—barking, lunging, or melting down when other dogs appear—is one of the most common urban training problems. It is also one of the most misunderstood. Your dog is rarely “dominant” or “mean.” They are often frustrated, afraid, or over-aroused while trapped on a leash. This guide focuses on **management that stops rehearsals**, engagement skills, and gradual counter-conditioning so walking past other dogs becomes possible without flooding or punishment.

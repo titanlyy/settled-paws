@@ -7,6 +7,10 @@ publishedAt: "2026-05-08"
 updatedAt: "2026-10-08"
 featured: true
 related: ["alone-time-protocol-separation-anxiety", "loose-leash-training-reactive-dogs-apartments", "puppy-biting-redirection"]
+image: "/images/articles/when-to-hire-professional-trainer-featured.svg"
+figures:
+  - /images/articles/when-to-hire-professional-trainer-fig-1.svg
+  - /images/articles/when-to-hire-professional-trainer-fig-2.svg
 ---
 
 Online guides (including Settled Paws) are starting points. They are not a substitute for a skilled human who can see your dog’s body language in your hallway. Knowing **when to hire**—and **whom to hire**—protects welfare, housing, and your relationship with your dog.

@@ -7,6 +7,10 @@ publishedAt: "2026-06-26"
 updatedAt: "2026-10-13"
 featured: false
 related: ["alone-time-protocol-separation-anxiety", "newly-adopted-rescue-first-two-weeks", "when-to-hire-professional-trainer"]
+image: "/images/articles/car-travel-vet-visit-calm-anxious-dogs-featured.svg"
+figures:
+  - /images/articles/car-travel-vet-visit-calm-anxious-dogs-fig-1.svg
+  - /images/articles/car-travel-vet-visit-calm-anxious-dogs-fig-2.svg
 ---
 
 For many dogs, the car predicts the vet, and the vet predicts needles, slippery tables, and stranger handling. Anxiety stacks fast. The fix is not one “get in and deal with it” ride—it is a **graded plan** for vehicle comfort, cooperative care skills, and clinic visits that start before you need bloodwork. This guide is for home owners whose dogs tremble at jingling keys or freeze in the lobby of the animal hospital.

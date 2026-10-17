@@ -7,6 +7,10 @@ publishedAt: "2026-04-15"
 updatedAt: "2026-09-28"
 featured: true
 related: ["puppy-first-30-days-at-home", "crate-training-day-night-schedule", "apartment-barking-triggers-quieting-plan"]
+image: "/images/articles/apartment-potty-training-without-yard-featured.svg"
+figures:
+  - /images/articles/apartment-potty-training-without-yard-fig-1.svg
+  - /images/articles/apartment-potty-training-without-yard-fig-2.svg
 ---
 
 No yard means every bathroom trip is a logistics puzzle: keys, leash, elevator, weather, and a puppy with a three-second warning. Plenty of apartment dogs become reliably housetrained—you just need a **tight schedule**, a clear potty surface plan, and ruthless supervision indoors. This guide is for puppies and newly adopted adults settling into multi-unit living.

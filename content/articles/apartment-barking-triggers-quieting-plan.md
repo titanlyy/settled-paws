@@ -7,6 +7,10 @@ publishedAt: "2026-04-01"
 updatedAt: "2026-09-22"
 featured: true
 related: ["mat-settle-training-hyper-puppy", "elevator-hallway-etiquette-apartment-dogs", "rainy-day-indoor-exercise-plans"]
+image: "/images/articles/apartment-barking-triggers-quieting-plan-featured.svg"
+figures:
+  - /images/articles/apartment-barking-triggers-quieting-plan-fig-1.svg
+  - /images/articles/apartment-barking-triggers-quieting-plan-fig-2.svg
 ---
 
 Shared walls turn normal dog communication into a housing stressor. Barking is information—alert, frustration, play, fear, demand—not a moral failure. This quieting plan helps you **identify triggers**, manage the environment, and train alternate behaviors so your dog can live in an apartment without constant conflict.

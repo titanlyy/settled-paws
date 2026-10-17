@@ -7,6 +7,10 @@ publishedAt: "2026-05-01"
 updatedAt: "2026-10-05"
 featured: true
 related: ["choosing-dog-bed-quiet-settle-place", "enrichment-toys-boredom-busters-apartment-dogs", "crate-training-day-night-schedule"]
+image: "/images/articles/beginner-harnesses-crates-buying-guide-featured.svg"
+figures:
+  - /images/articles/beginner-harnesses-crates-buying-guide-fig-1.svg
+  - /images/articles/beginner-harnesses-crates-buying-guide-fig-2.svg
 ---
 
 Gear will not train your dog for you—but the wrong gear can make training harder, less safe, or more aversive than it needs to be. This honest buying guide compares **beginner harness types** and **crate styles** for home owners and apartment dwellers using positive-reinforcement priorities: comfort, control without pain, and ease of conditioning.

@@ -7,6 +7,10 @@ publishedAt: "2026-05-22"
 updatedAt: "2026-10-11"
 featured: false
 related: ["leave-it-drop-it-reliable-training", "mat-settle-training-hyper-puppy", "enrichment-toys-boredom-busters-apartment-dogs"]
+image: "/images/articles/counter-surfing-kitchen-manners-featured.svg"
+figures:
+  - /images/articles/counter-surfing-kitchen-manners-fig-1.svg
+  - /images/articles/counter-surfing-kitchen-manners-fig-2.svg
 ---
 
 Counter surfing is not a moral failing. It is a brilliantly successful scavenging strategy in a world where humans leave cheese at nose height. If stealing burrito bowls has ever paid, your dog will keep gambling. This plan combines **bulletproof management**, a mat-based kitchen routine, and solid “leave it” skills so manners stick when you are chopping onions with your back turned.
