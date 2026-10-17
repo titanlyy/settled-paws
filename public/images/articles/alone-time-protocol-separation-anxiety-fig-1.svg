@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280" role="img">
+  <rect width="720" height="280" fill="#f7f5f0" rx="24"/>
+  <text x="40" y="45" font-family="Georgia,serif" font-size="20" fill="#2f5d50">Duration ladder (example)</text>
+        <g transform="translate(50,80)"><circle cx="40" cy="40" r="36" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="40" y="45" text-anchor="middle" font-size="11" fill="#1c2a24">Keys only</text></g><g transform="translate(180,80)"><circle cx="40" cy="40" r="36" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="40" y="45" text-anchor="middle" font-size="11" fill="#1c2a24">Door open</text></g><g transform="translate(310,80)"><circle cx="40" cy="40" r="36" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="40" y="45" text-anchor="middle" font-size="11" fill="#1c2a24">30 sec out</text></g><g transform="translate(440,80)"><circle cx="40" cy="40" r="36" fill="#f5d9a8" stroke="#2f5d50" stroke-width="2"/><text x="40" y="45" text-anchor="middle" font-size="11" fill="#1c2a24">2 min</text></g><g transform="translate(570,80)"><circle cx="40" cy="40" r="36" fill="#f5d9a8" stroke="#2f5d50" stroke-width="2"/><text x="40" y="45" text-anchor="middle" font-size="11" fill="#1c2a24">5+ min</text></g>
+</svg>
