@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img">
+  <rect width="800" height="520" fill="#f7f5f0" rx="24"/>
+  
+  
+  <g transform="translate(60,80) scale(1.4)" fill="#a9bfb3" opacity="0.5">
+    <ellipse cx="0" cy="8" rx="7" ry="5"/>
+    <circle cx="-8" cy="-2" r="3.5"/><circle cx="-2" cy="-6" r="3.5"/>
+    <circle cx="5" cy="-6" r="3.5"/><circle cx="10" cy="-1" r="3.5"/>
+  </g>
+  
+  <g transform="translate(700,400) scale(1.2)" fill="#a9bfb3" opacity="0.5">
+    <ellipse cx="0" cy="8" rx="7" ry="5"/>
+    <circle cx="-8" cy="-2" r="3.5"/><circle cx="-2" cy="-6" r="3.5"/>
+    <circle cx="5" cy="-6" r="3.5"/><circle cx="10" cy="-1" r="3.5"/>
+  </g>
+  
+  <g transform="translate(720,60) scale(0.9)" fill="#a9bfb3" opacity="0.5">
+    <ellipse cx="0" cy="8" rx="7" ry="5"/>
+    <circle cx="-8" cy="-2" r="3.5"/><circle cx="-2" cy="-6" r="3.5"/>
+    <circle cx="5" cy="-6" r="3.5"/><circle cx="10" cy="-1" r="3.5"/>
+  </g>
+  <rect x="480" y="120" width="240" height="280" rx="20" fill="#e5ede8" stroke="#2f5d50" stroke-width="3"/>
+  <rect x="510" y="160" width="50" height="50" rx="6" fill="#d4e8ee"/>
+  <rect x="580" y="160" width="50" height="50" rx="6" fill="#d4e8ee"/>
+  <rect x="650" y="160" width="40" height="50" rx="6" fill="#d4e8ee"/>
+  <rect x="510" y="230" width="50" height="50" rx="6" fill="#d4e8ee"/>
+  <rect x="580" y="230" width="50" height="50" rx="6" fill="#d4e8ee"/>
+  <rect x="80" y="380" width="320" height="24" rx="8" fill="#f5d9a8" stroke="#2f5d50" stroke-width="1.5"/>
+  
+  <g transform="translate(120,280) scale(1.6)">
+    <!-- body -->
+    <ellipse cx="40" cy="52" rx="28" ry="18" fill="#2f5d50"/>
+    <!-- head -->
+    <circle cx="68" cy="38" r="16" fill="#2f5d50"/>
+    <!-- ears -->
+    <ellipse cx="58" cy="26" rx="6" ry="10" fill="#244a40" transform="rotate(-20 58 26)"/>
+    <ellipse cx="76" cy="26" rx="6" ry="10" fill="#244a40" transform="rotate(20 76 26)"/>
+    <!-- snout -->
+    <ellipse cx="78" cy="42" rx="8" ry="6" fill="#efeae2"/>
+    <circle cx="82" cy="40" r="2" fill="#1c2a24"/>
+    <!-- eye -->
+    <circle cx="72" cy="34" r="2.2" fill="#1c2a24"/>
+    <!-- legs -->
+    <rect x="22" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="36" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="48" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="58" y="60" width="7" height="18" rx="3" fill="#244a40"/>
+    <!-- tail -->
+    <path d="M14 48 Q4 36 12 30" fill="none" stroke="#244a40" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  
+  <g transform="translate(280,310) scale(1.1)">
+    <!-- body -->
+    <ellipse cx="40" cy="52" rx="28" ry="18" fill="#4a7a68"/>
+    <!-- head -->
+    <circle cx="68" cy="38" r="16" fill="#4a7a68"/>
+    <!-- ears -->
+    <ellipse cx="58" cy="26" rx="6" ry="10" fill="#2f5d50" transform="rotate(-20 58 26)"/>
+    <ellipse cx="76" cy="26" rx="6" ry="10" fill="#2f5d50" transform="rotate(20 76 26)"/>
+    <!-- snout -->
+    <ellipse cx="78" cy="42" rx="8" ry="6" fill="#efeae2"/>
+    <circle cx="82" cy="40" r="2" fill="#1c2a24"/>
+    <!-- eye -->
+    <circle cx="72" cy="34" r="2.2" fill="#1c2a24"/>
+    <!-- legs -->
+    <rect x="22" y="62" width="7" height="16" rx="3" fill="#2f5d50"/>
+    <rect x="36" y="62" width="7" height="16" rx="3" fill="#2f5d50"/>
+    <rect x="48" y="62" width="7" height="16" rx="3" fill="#2f5d50"/>
+    <rect x="58" y="60" width="7" height="18" rx="3" fill="#2f5d50"/>
+    <!-- tail -->
+    <path d="M14 48 Q4 36 12 30" fill="none" stroke="#2f5d50" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="80" y="90" font-family="Georgia, serif" font-size="28" fill="#2f5d50" font-weight="600">Settled at home</text>
+  <text x="80" y="124" font-family="system-ui,sans-serif" font-size="16" fill="#1c2a24" opacity="0.7">Calm plans for real apartments</text>
+
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280" role="img">
+  <rect width="720" height="280" fill="#f7f5f0" rx="24"/>
+  <text x="40" y="45" font-family="Georgia,serif" font-size="20" fill="#2f5d50">Settle ladder</text>
+        <rect x="60" y="100" width="130" height="80" rx="10" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="125" y="145" text-anchor="middle" font-size="14" fill="#1c2a24">4 paws</text><rect x="215" y="108" width="130" height="80" rx="10" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="280" y="153" text-anchor="middle" font-size="14" fill="#1c2a24">Sit</text><rect x="370" y="116" width="130" height="80" rx="10" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="435" y="161" text-anchor="middle" font-size="14" fill="#1c2a24">Down</text><rect x="525" y="124" width="130" height="80" rx="10" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="590" y="169" text-anchor="middle" font-size="14" fill="#1c2a24">Duration</text>
+</svg>

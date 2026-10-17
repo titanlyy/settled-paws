@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img">
+  <rect width="640" height="360" fill="#f7f5f0" rx="24"/>
+  
+  <g transform="translate(60,120) scale(1.5)">
+    <rect x="0" y="10" width="70" height="50" rx="4" fill="#e5ede8" stroke="#2f5d50" stroke-width="2.5"/>
+    <line x1="14" y1="10" x2="14" y2="60" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="28" y1="10" x2="28" y2="60" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="42" y1="10" x2="42" y2="60" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="56" y1="10" x2="56" y2="60" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="0" y1="28" x2="70" y2="28" stroke="#a9bfb3" stroke-width="2"/>
+    <line x1="0" y1="44" x2="70" y2="44" stroke="#a9bfb3" stroke-width="2"/>
+    <rect x="0" y="58" width="70" height="6" rx="2" fill="#2f5d50"/>
+  </g>
+  <g transform="translate(280,200)">
+    <ellipse cx="50" cy="28" rx="48" ry="20" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/>
+    <ellipse cx="50" cy="24" rx="36" ry="12" fill="#f5d9a8"/>
+  </g>
+  <g transform="translate(480,160)">
+    <circle cx="12" cy="12" r="12" fill="#e8a598"/>
+    <circle cx="12" cy="12" r="4" fill="#f7f5f0"/>
+  </g>
+    <text x="280" y="120" font-family="Georgia,serif" font-size="28" fill="#2f5d50">Tools & Gear</text>
+    <text x="280" y="155" font-family="system-ui,sans-serif" font-size="15" fill="#1c2a24" opacity="0.7">Crates, harnesses, enrichment</text>
+</svg>

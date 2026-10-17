@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img">
+  <rect width="800" height="450" fill="#f7f5f0" rx="24"/>
+  
+  <g transform="translate(100,40)" stroke="#4a7a68" stroke-width="2" stroke-linecap="round">
+    <line x1="0" y1="0" x2="-4" y2="14"/><line x1="14" y1="4" x2="10" y2="18"/>
+    <line x1="28" y1="0" x2="24" y2="14"/><line x1="42" y1="6" x2="38" y2="20"/>
+  </g>
+  <g transform="translate(200,60)" stroke="#4a7a68" stroke-width="2" stroke-linecap="round">
+    <line x1="0" y1="0" x2="-4" y2="14"/><line x1="14" y1="4" x2="10" y2="18"/>
+    <line x1="28" y1="0" x2="24" y2="14"/><line x1="42" y1="6" x2="38" y2="20"/>
+  </g>
+  <g transform="translate(300,40)" stroke="#4a7a68" stroke-width="2" stroke-linecap="round">
+    <line x1="0" y1="0" x2="-4" y2="14"/><line x1="14" y1="4" x2="10" y2="18"/>
+    <line x1="28" y1="0" x2="24" y2="14"/><line x1="42" y1="6" x2="38" y2="20"/>
+  </g>
+      
+  <g transform="translate(180,200) scale(1.5)">
+    <!-- body -->
+    <ellipse cx="40" cy="52" rx="28" ry="18" fill="#2f5d50"/>
+    <!-- head -->
+    <circle cx="68" cy="38" r="16" fill="#2f5d50"/>
+    <!-- ears -->
+    <ellipse cx="58" cy="26" rx="6" ry="10" fill="#244a40" transform="rotate(-20 58 26)"/>
+    <ellipse cx="76" cy="26" rx="6" ry="10" fill="#244a40" transform="rotate(20 76 26)"/>
+    <!-- snout -->
+    <ellipse cx="78" cy="42" rx="8" ry="6" fill="#efeae2"/>
+    <circle cx="82" cy="40" r="2" fill="#1c2a24"/>
+    <!-- eye -->
+    <circle cx="72" cy="34" r="2.2" fill="#1c2a24"/>
+    <!-- legs -->
+    <rect x="22" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="36" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="48" y="62" width="7" height="16" rx="3" fill="#244a40"/>
+    <rect x="58" y="60" width="7" height="18" rx="3" fill="#244a40"/>
+    <!-- tail -->
+    <path d="M14 48 Q4 36 12 30" fill="none" stroke="#244a40" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(400,260)">
+    <circle cx="12" cy="12" r="12" fill="#e8a598"/>
+    <circle cx="12" cy="12" r="4" fill="#f7f5f0"/>
+  </g>
+      <text x="480" y="230" font-family="Georgia,serif" font-size="26" fill="#2f5d50">Rainy-day plans</text>
+</svg>
