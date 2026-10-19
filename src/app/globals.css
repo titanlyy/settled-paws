@@ -183,3 +183,9 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* Soft tint behind image containers so lazy-loaded images never look broken */
+.img-shell {
+  background-color: var(--sage-100);
+  background-image: linear-gradient(135deg, var(--sage-100) 0%, var(--sage-50) 100%);
+}

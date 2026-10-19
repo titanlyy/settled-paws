@@ -41,7 +41,7 @@ export default function HomePage() {
               </Link>
             </div>
           </div>
-          <div className="relative aspect-[800/520] overflow-hidden rounded-3xl border border-sage-200 bg-white shadow-sm">
+          <div className="img-shell relative aspect-[800/520] overflow-hidden rounded-3xl border border-sage-200 shadow-sm">
             <Image
               src="/images/site/hero.svg"
               alt="Stylized illustration of calm dogs settling at home in an apartment"
@@ -109,7 +109,7 @@ export default function HomePage() {
                   href={`/category/${c.slug}`}
                   className="group flex h-full flex-col overflow-hidden rounded-2xl border border-sage-200 bg-white shadow-sm transition hover:border-forest/40 hover:shadow-md"
                 >
-                  <div className="relative aspect-[16/9] bg-sage-50">
+                  <div className="img-shell relative aspect-[16/9] overflow-hidden">
                     <Image
                       src={`/images/categories/${c.slug}.svg`}
                       alt=""
@@ -146,7 +146,7 @@ export default function HomePage() {
                   href={`/articles/${a.slug}`}
                   className="flex gap-4 px-4 py-4 transition hover:bg-sage-50 sm:items-center sm:justify-between sm:px-5"
                 >
-                  <span className="relative hidden h-14 w-20 shrink-0 overflow-hidden rounded-lg bg-sage-100 sm:block">
+                  <span className="relative hidden h-14 w-20 shrink-0 img-shell overflow-hidden rounded-lg sm:block">
                     <Image
                       src={a.image || `/images/articles/${a.slug}-featured.svg`}
                       alt=""

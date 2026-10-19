@@ -213,7 +213,7 @@ const categories = {
   "house-manners-barking": () =>
     wrap(640, 360, `${door(80, 80)}${dog(160, 160, 1.5)}${mat(280, 280, 160, 18)}
     <text x="360" y="150" font-family="Georgia,serif" font-size="28" fill="${C.forest}">House Manners</text>
-    <text x="360" y="190" font-family="system-ui,sans-serif" font-size="16" fill="${C.ink}" opacity="0.7">& quiet living</text>`),
+    <text x="360" y="190" font-family="system-ui,sans-serif" font-size="16" fill="${C.ink}" opacity="0.7">&amp; quiet living</text>`),
   "separation-alone-time": () =>
     wrap(640, 360, `${crate(80, 140, 1.8)}${dog(100, 150, 1.1)}${pawPrint(420, 100, 1.3)}
     <circle cx="480" cy="200" r="40" fill="${C.sagePale}" stroke="${C.forest}" stroke-width="2"/>
@@ -223,10 +223,10 @@ const categories = {
     wrap(640, 360, `${building(40, 80)}${dog(160, 180, 1.4)}${leash(250, 210, 360, 160)}
     <circle cx="380" cy="150" r="10" fill="${C.forest}"/>
     ${pawPrint(500, 280, 1.2)}
-    <text x="400" y="240" font-family="Georgia,serif" font-size="26" fill="${C.forest}">Leash & Outdoor</text>`),
+    <text x="400" y="240" font-family="Georgia,serif" font-size="26" fill="${C.forest}">Leash &amp; Outdoor</text>`),
   "tools-gear": () =>
     wrap(640, 360, `${crate(60, 120, 1.5)}${bed(280, 200)}${toy(480, 160)}
-    <text x="280" y="120" font-family="Georgia,serif" font-size="28" fill="${C.forest}">Tools & Gear</text>
+    <text x="280" y="120" font-family="Georgia,serif" font-size="28" fill="${C.forest}">Tools &amp; Gear</text>
     <text x="280" y="155" font-family="system-ui,sans-serif" font-size="15" fill="${C.ink}" opacity="0.7">Crates, harnesses, enrichment</text>`),
 };
 
@@ -241,7 +241,7 @@ const articles = {
       wrap(800, 450, `${crate(120, 140, 2.2)}${puppy(160, 160, 1.3)}
       <circle cx="560" cy="140" r="36" fill="${C.amber}"/><text x="548" y="148" font-size="28">☀</text>
       <circle cx="640" cy="140" r="36" fill="${C.sagePale}" stroke="${C.forest}" stroke-width="2"/><text x="626" y="148" font-size="28">☾</text>
-      <text x="480" y="280" font-family="Georgia,serif" font-size="30" fill="${C.forest}">Day & night</text>
+      <text x="480" y="280" font-family="Georgia,serif" font-size="30" fill="${C.forest}">Day &amp; night</text>
       <text x="480" y="318" font-family="system-ui" font-size="16" fill="${C.ink}" opacity="0.7">crate schedule</text>`),
     figures: [
       () =>

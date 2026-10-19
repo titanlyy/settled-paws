@@ -18,21 +18,17 @@ export function ArticleCard({
 
   return (
     <article
-      className={`group relative flex flex-col overflow-hidden rounded-2xl border border-sage-200 bg-white shadow-sm transition hover:border-forest/30 hover:shadow-md ${
-        priority ? "sm:col-span-2 sm:flex-row" : ""
-      }`}
+      className={`group relative flex flex-col overflow-hidden rounded-2xl border border-sage-200 bg-white shadow-sm transition hover:border-forest/30 hover:shadow-md`}
     >
       <div
-        className={`relative shrink-0 overflow-hidden bg-sage-100 ${
-          priority ? "aspect-[16/10] sm:aspect-auto sm:w-56 sm:min-h-[180px]" : "aspect-[16/10]"
-        }`}
+        className="img-shell relative aspect-[16/9] w-full shrink-0 overflow-hidden"
       >
         <Image
           src={src}
           alt=""
           fill
           className="object-cover transition duration-300 group-hover:scale-[1.03]"
-          sizes={priority ? "(max-width:640px) 100vw, 224px" : "(max-width:640px) 100vw, 33vw"}
+          sizes="(max-width:640px) 100vw, 33vw"
           priority={priority}
         />
       </div>

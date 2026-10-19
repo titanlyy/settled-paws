@@ -49,7 +49,7 @@ export default async function CategoryPage({ params }: Props) {
           </h1>
           <p className="mt-3 text-ink-muted">{category.description}</p>
         </div>
-        <div className="relative hidden aspect-[16/9] overflow-hidden rounded-2xl border border-sage-200 bg-sage-50 lg:block">
+        <div className="relative hidden aspect-[16/9] overflow-hidden rounded-2xl border border-sage-200 img-shell lg:block">
           <Image
             src={`/images/categories/${category.slug}.svg`}
             alt=""

@@ -94,7 +94,7 @@ export default async function ArticlePage({ params }: Props) {
   return (
     <main id="main-content" className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
       <JsonLd data={jsonLd} />
-      <div className="grid gap-10 lg:grid-cols-[1fr_280px]">
+      <div className="grid gap-10 lg:grid-cols-[1fr_300px]">
         <article>
           <nav className="text-sm text-ink-muted" aria-label="Breadcrumb">
             <ol className="flex flex-wrap items-center gap-1.5">
@@ -160,7 +160,7 @@ export default async function ArticlePage({ params }: Props) {
             </div>
           </header>
 
-          <div className="relative mt-8 aspect-[16/9] overflow-hidden rounded-2xl border border-sage-200 bg-sage-50 shadow-sm">
+          <div className="relative mt-8 aspect-[16/9] overflow-hidden rounded-2xl border border-sage-200 img-shell shadow-sm">
             <Image
               src={image}
               alt={`Featured illustration for ${article.title}`}

@@ -20,6 +20,6 @@
     <circle cx="12" cy="12" r="12" fill="#e8a598"/>
     <circle cx="12" cy="12" r="4" fill="#f7f5f0"/>
   </g>
-    <text x="280" y="120" font-family="Georgia,serif" font-size="28" fill="#2f5d50">Tools & Gear</text>
+    <text x="280" y="120" font-family="Georgia,serif" font-size="28" fill="#2f5d50">Tools &amp; Gear</text>
     <text x="280" y="155" font-family="system-ui,sans-serif" font-size="15" fill="#1c2a24" opacity="0.7">Crates, harnesses, enrichment</text>
 </svg>

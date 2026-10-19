@@ -35,6 +35,6 @@
   </g>
       <circle cx="560" cy="140" r="36" fill="#f5d9a8"/><text x="548" y="148" font-size="28">☀</text>
       <circle cx="640" cy="140" r="36" fill="#e5ede8" stroke="#2f5d50" stroke-width="2"/><text x="626" y="148" font-size="28">☾</text>
-      <text x="480" y="280" font-family="Georgia,serif" font-size="30" fill="#2f5d50">Day & night</text>
+      <text x="480" y="280" font-family="Georgia,serif" font-size="30" fill="#2f5d50">Day &amp; night</text>
       <text x="480" y="318" font-family="system-ui" font-size="16" fill="#1c2a24" opacity="0.7">crate schedule</text>
 </svg>

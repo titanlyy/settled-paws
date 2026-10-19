@@ -38,5 +38,5 @@
     <circle cx="-8" cy="-2" r="3.5"/><circle cx="-2" cy="-6" r="3.5"/>
     <circle cx="5" cy="-6" r="3.5"/><circle cx="10" cy="-1" r="3.5"/>
   </g>
-    <text x="400" y="240" font-family="Georgia,serif" font-size="26" fill="#2f5d50">Leash & Outdoor</text>
+    <text x="400" y="240" font-family="Georgia,serif" font-size="26" fill="#2f5d50">Leash &amp; Outdoor</text>
 </svg>

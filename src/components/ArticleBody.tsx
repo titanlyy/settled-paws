@@ -46,7 +46,7 @@ export function ArticleBody({
 function ArticleFigure({ figure }: { figure: Figure }) {
   return (
     <figure className="not-prose my-10 overflow-hidden rounded-2xl border border-sage-200 bg-sage-50 shadow-sm">
-      <div className="relative aspect-[720/280] w-full">
+      <div className="img-shell relative aspect-[720/280] w-full">
         <Image
           src={figure.src}
           alt={figure.alt}
